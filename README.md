@@ -1,9 +1,9 @@
 # R Code for the paper
-# "Estimating weekly excess mortality at sub-national level in Italy during the COVID-19 pandemic"
-# by Marta Blangiardo, Michela Cameletti, Monica Pirani, Gianni Corsetti, Marco Battaglini, Gianluca Baio
-# https://www.medrxiv.org/content/10.1101/2020.06.08.20125211v2
+"Estimating weekly excess mortality at sub-national level in Italy during the COVID-19 pandemic"
+by Marta Blangiardo, Michela Cameletti, Monica Pirani, Gianni Corsetti, Marco Battaglini, Gianluca Baio
+https://www.medrxiv.org/content/10.1101/2020.06.08.20125211v2
 
-# Last version: 13/08/2020
+Last version: 13/08/2020
 
 The following data are required for running the model:
 - ./Data/MacroRegions.Rdata
